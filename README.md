@@ -13,10 +13,10 @@ To Create a mobile responsive portfolio using CSS-Bootstrap
 <!--Links-->
  Deployment URL
  <br  />
-
+  https://alishapanday.github.io/Responsive-Portfolio/ 
  <br  />
  GitHub URL
- <br  />
+ https://github.com/AlishaPanday/Responsive-Portfolio 
 
 
 
