@@ -41,14 +41,19 @@ To Create a mobile responsive portfolio using CSS-Bootstrap
 
 ## Mock-Up
 
-![Portfolio1](https://user-images.githubusercontent.com/72904217/99762779-3c9abe00-2b34-11eb-8627-23960957d286.PNG)
-![Portfolioo](https://user-images.githubusercontent.com/72904217/99762797-46242600-2b34-11eb-888b-719ef0bd4e8a.PNG)
+![Portfolio1](https://user-images.githubusercontent.com/72904217/99900210-49acde00-2ce9-11eb-85f1-128af5b9c9a8.PNG)
+![Portfolio2](https://user-images.githubusercontent.com/72904217/99900223-57fafa00-2ce9-11eb-9afa-ee724fadf3ae.PNG)
+![Contact1](https://user-images.githubusercontent.com/72904217/99900228-5cbfae00-2ce9-11eb-8e8c-5449b3a40188.PNG)
+![Contact2](https://user-images.githubusercontent.com/72904217/99900233-65b07f80-2ce9-11eb-9fd1-6b2fe9b6197f.PNG)
+![About1](https://user-images.githubusercontent.com/72904217/99900238-69dc9d00-2ce9-11eb-90ca-1d6d969bec63.PNG)
+![About2](https://user-images.githubusercontent.com/72904217/99900243-6c3ef700-2ce9-11eb-888c-475346efc6e1.PNG)
+
 
 
 ## Technical Acceptance Criteria:
 
 <!--code block-->
-```
+```S
 
 
 Functional, deployed application
